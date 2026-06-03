@@ -33,5 +33,16 @@
       <guid isPermaLink="false">https://mattodell.github.io/tech-news-podcast/episodes/tech-news-2026-06-02.mp3</guid>
     </item>
 
+
+    <item>
+      <title>Tech News Briefing — June 3, 2026</title>
+      <description><![CDATA[This week's tech landscape is shaped by three converging forces: massive AI capital consolidation, a landmark shift in enterprise AI leadership, and an accelerating identity-centric threat environment. Anthropic's confidential IPO filing arrives alongside its historic milestone of overtaking OpenAI in business adoption (34.4% vs. 32.3%), even as 79% of organizations report AI adoption challenges and GitHub's new usage-based Copilot billing generates sticker shock for engineering teams. On the security front, three actively exploited zero-days — including a Windows Netlogon flaw enabling unauthenticated domain controller takeover — and a doubling of third-party SaaS breach involvement demand immediate attention from IAM and platform teams. Allegion's ISC West showcase and the formal Aliro 1.0 launch mark a pivotal inflection point for mobile credential interoperability, with Apple Wallet and Google Wallet now carrying Schlage NFC credentials across commercial, campus, and residential deployments.]]></description>
+      <itunes:summary><![CDATA[This week's tech landscape is shaped by three converging forces: massive AI capital consolidation, a landmark shift in enterprise AI leadership, and an accelerating identity-centric threat environment. Anthropic's confidential IPO filing arrives alongside its historic milestone of overtaking OpenAI in business adoption (34.4% vs. 32.3%), even as 79% of organizations report AI adoption challenges and GitHub's new usage-based Copilot billing generates sticker shock for engineering teams. On the security front, three actively exploited zero-days — including a Windows Netlogon flaw enabling unauthenticated domain controller takeover — and a doubling of third-party SaaS breach involvement demand immediate attention from IAM and platform teams. Allegion's ISC West showcase and the formal Aliro 1.0 launch mark a pivotal inflection point for mobile credential interoperability, with Apple Wallet and Google Wallet now carrying Schlage NFC credentials across commercial, campus, and residential deployments.]]></itunes:summary>
+      <pubDate>Wed, 03 Jun 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://mattodell.github.io/tech-news-podcast/episodes/tech-news-2026-06-03.mp3" length="4415853" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mattodell.github.io/tech-news-podcast/episodes/tech-news-2026-06-03.mp3</guid>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+
   </channel>
 </rss>
