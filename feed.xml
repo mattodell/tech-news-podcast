@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech News Briefing</title>
+    <link>https://mattodell.github.io/tech-news-podcast/</link>
+    <atom:link href="https://mattodell.github.io/tech-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Weekly tech news briefing covering AI, enterprise architecture, platform engineering, identity, payments, and cybersecurity.</description>
+    <language>en-us</language>
+    <itunes:author>Matt O'Dell</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Matt O'Dell</itunes:name>
+      <itunes:email>mrmattodell@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://mattodell.github.io/tech-news-podcast/cover.png"/>
+    <image>
+      <url>https://mattodell.github.io/tech-news-podcast/cover.png</url>
+      <title>Tech News Briefing</title>
+      <link>https://mattodell.github.io/tech-news-podcast/</link>
+    </image>
+
+  </channel>
+</rss>
