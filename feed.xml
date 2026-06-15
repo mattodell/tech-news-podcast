@@ -24,6 +24,62 @@
     </image>
 
 
+<item>
+      <title>Tech News Briefing — June 14, 2026</title>
+      <description><![CDATA[This week was dominated by capital flooding into AI infrastructure: Anthropic and SpaceX both filed for IPOs, Alphabet raised $80B and SoftBank committed $52B to European data centers, while Databricks is reportedly raising at a ~$170B valuation — a signal that "AI as enterprise infrastructure" is now the default investment thesis. On the enterprise side, agentic AI crossed from pilot to production (NTT DATA/Google Cloud, Snowflake/Anthropic, and a 97% agent-deployment stat), with the identity layer racing to catch up — Auth0 now treats AI agents and MCP servers as first-class identities, directly touching the CIAM remit. Security demands immediate attention: June Patch Tuesday set a record at 198 CVEs, and three separate 9.8-severity RCEs (Oracle PeopleSoft, Splunk, GitHub) plus a max-severity n8n flaw are being actively exploited or weaponized.
+
+---
+Sources
+1. Top Tech News Today, June 9, 2026 (Tech Startups) — https://techstartups.com/2026/06/09/top-tech-news-today-june-9-2026/
+2. Explosive Tech News June 2026 (IMFounder) — https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/
+3. Analytics and Data Science News, Week of June 12 (Solutions Review) — https://solutionsreview.com/business-intelligence/analytics-and-data-science-news-for-the-week-of-june-12-updates-from-databricks-dataiku-golden-analytics-more/
+4. NTT DATA Expands Collaboration with Google Cloud (NTT DATA) — https://www.nttdata.com/global/en/news/press-release/2026/june/060900
+5. Snowflake and Anthropic Accelerate Enterprise AI Adoption (Snowflake) — https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-accelerate-enterprise-ai-adoption-driven-by-rising-demand-for-governed-ai/
+6. SEI and Accenture Release AI Adoption Maturity Model (Carnegie Mellon SEI) — https://www.sei.cmu.edu/news/sei-and-accenture-release-ai-adoption-maturity-model-to-help-organizations-scale-ai-with-predictable-outcomes/
+7. News (Digital Transactions) — https://www.digitaltransactions.net/category/news/
+8. All Payments News (Glenbrook Partners) — https://glenbrook.com/payments-news/all-payments-news/
+9. How payments will evolve: 6 industry trends to watch in 2026 (Payments Dive) — https://www.paymentsdive.com/news/how-payments-will-evolve-6-industry-trends-to-watch-in-2026/808869/
+10. State of CIAM 2026 (Security Boulevard) — https://securityboulevard.com/2026/06/state-of-ciam-2026-14-trends-from-200-vendor-changelogs/
+11. CIAM Market Valued at USD 3.5 billion in 2026 (OpenPR) — https://www.openpr.com/news/4230464/customer-identity-access-management-ciam-market-by-type
+12. Auth0 May 2026 Product Innovations (Okta Newsroom) — https://www.okta.com/newsroom/articles/auth0-may-2026-product-innovations/
+13. Cursor, Claude Code, and Codex are merging into one AI coding stack (The New Stack) — https://thenewstack.io/ai-coding-tool-stack/
+14. AI Coding Agents 2026 Comparison (Lushbinary) — https://lushbinary.com/blog/ai-coding-agents-comparison-cursor-windsurf-claude-copilot-kiro-2026/
+15. June 2026 Patch Tuesday: A Record 198 CVEs (N-able) — https://www.n-able.com/blog/june-2026-patch-tuesday-a-record-198-cves-three-zero-days-and-a-glimpse-of-the-ai-driven-future-of-vulnerability-research
+16. Critical GitHub Vulnerability Exposed Millions of Repositories (SecurityWeek) — https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/
+17. Critical RCE flaw allows full takeover of n8n AI workflow platform (CSO Online) — https://www.csoonline.com/article/4113980/critical-rce-flaw-allows-full-takeover-of-n8n-ai-workflow-platform.html
+
+---
+This podcast is produced using artificial intelligence and is an independent project created for informational and educational purposes. It is not affiliated with, endorsed by, or representative of any company, organization, employer, or publication. The views, opinions, and content expressed do not reflect those of any employer or business entity. All content is AI-generated and should not be considered professional advice.]]></description>
+      <itunes:summary><![CDATA[This week was dominated by capital flooding into AI infrastructure: Anthropic and SpaceX both filed for IPOs, Alphabet raised $80B and SoftBank committed $52B to European data centers, while Databricks is reportedly raising at a ~$170B valuation — a signal that "AI as enterprise infrastructure" is now the default investment thesis. On the enterprise side, agentic AI crossed from pilot to production (NTT DATA/Google Cloud, Snowflake/Anthropic, and a 97% agent-deployment stat), with the identity layer racing to catch up — Auth0 now treats AI agents and MCP servers as first-class identities, directly touching the CIAM remit. Security demands immediate attention: June Patch Tuesday set a record at 198 CVEs, and three separate 9.8-severity RCEs (Oracle PeopleSoft, Splunk, GitHub) plus a max-severity n8n flaw are being actively exploited or weaponized.
+
+---
+Sources
+1. Top Tech News Today, June 9, 2026 (Tech Startups) — https://techstartups.com/2026/06/09/top-tech-news-today-june-9-2026/
+2. Explosive Tech News June 2026 (IMFounder) — https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/
+3. Analytics and Data Science News, Week of June 12 (Solutions Review) — https://solutionsreview.com/business-intelligence/analytics-and-data-science-news-for-the-week-of-june-12-updates-from-databricks-dataiku-golden-analytics-more/
+4. NTT DATA Expands Collaboration with Google Cloud (NTT DATA) — https://www.nttdata.com/global/en/news/press-release/2026/june/060900
+5. Snowflake and Anthropic Accelerate Enterprise AI Adoption (Snowflake) — https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-accelerate-enterprise-ai-adoption-driven-by-rising-demand-for-governed-ai/
+6. SEI and Accenture Release AI Adoption Maturity Model (Carnegie Mellon SEI) — https://www.sei.cmu.edu/news/sei-and-accenture-release-ai-adoption-maturity-model-to-help-organizations-scale-ai-with-predictable-outcomes/
+7. News (Digital Transactions) — https://www.digitaltransactions.net/category/news/
+8. All Payments News (Glenbrook Partners) — https://glenbrook.com/payments-news/all-payments-news/
+9. How payments will evolve: 6 industry trends to watch in 2026 (Payments Dive) — https://www.paymentsdive.com/news/how-payments-will-evolve-6-industry-trends-to-watch-in-2026/808869/
+10. State of CIAM 2026 (Security Boulevard) — https://securityboulevard.com/2026/06/state-of-ciam-2026-14-trends-from-200-vendor-changelogs/
+11. CIAM Market Valued at USD 3.5 billion in 2026 (OpenPR) — https://www.openpr.com/news/4230464/customer-identity-access-management-ciam-market-by-type
+12. Auth0 May 2026 Product Innovations (Okta Newsroom) — https://www.okta.com/newsroom/articles/auth0-may-2026-product-innovations/
+13. Cursor, Claude Code, and Codex are merging into one AI coding stack (The New Stack) — https://thenewstack.io/ai-coding-tool-stack/
+14. AI Coding Agents 2026 Comparison (Lushbinary) — https://lushbinary.com/blog/ai-coding-agents-comparison-cursor-windsurf-claude-copilot-kiro-2026/
+15. June 2026 Patch Tuesday: A Record 198 CVEs (N-able) — https://www.n-able.com/blog/june-2026-patch-tuesday-a-record-198-cves-three-zero-days-and-a-glimpse-of-the-ai-driven-future-of-vulnerability-research
+16. Critical GitHub Vulnerability Exposed Millions of Repositories (SecurityWeek) — https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/
+17. Critical RCE flaw allows full takeover of n8n AI workflow platform (CSO Online) — https://www.csoonline.com/article/4113980/critical-rce-flaw-allows-full-takeover-of-n8n-ai-workflow-platform.html
+
+---
+This podcast is produced using artificial intelligence and is an independent project created for informational and educational purposes. It is not affiliated with, endorsed by, or representative of any company, organization, employer, or publication. The views, opinions, and content expressed do not reflect those of any employer or business entity. All content is AI-generated and should not be considered professional advice.]]></itunes:summary>
+      <pubDate>Sun, 14 Jun 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://mattodell.github.io/tech-news-podcast/episodes/tech-news-2026-06-14.mp3" length="4178829" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mattodell.github.io/tech-news-podcast/episodes/tech-news-2026-06-14.mp3</guid>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+
     <item>
       <title>Tech News Briefing — June 2, 2026</title>
       <description><![CDATA[This week's dominant narrative is the cost and control crisis in enterprise AI tooling — Microsoft unveiled Project Polaris at Build 2026, canceled internal Claude Code licenses by June 30, while Uber revealed it burned through its entire 2026 AI tools budget in four months. Anthropic filed for IPO at a $965B post-money valuation the same week it launched Opus 4.8. Databricks entered cybersecurity with Lakewatch SIEM and Snowflake plans a $1B acquisition of Observe. Auth0 shipped its full agentic identity stack. Security had a brutal week: Cisco's sixth SD-WAN zero-day, a critical cPanel authentication bypass on CISA's exploited list, and the Verizon DBIR confirmed vulnerability exploitation has overtaken credential theft as the number one breach vector for the first time.]]></description>
